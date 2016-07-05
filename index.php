@@ -10,12 +10,12 @@
 
 
 	<div class="leftcontain">
-		<div class="leftnavbar"> This is where search goes here are some more words</div>
+		<div class="leftnavbar"> This is search area</div>
 	<div class="leftopts">
 		<div class="opttitle">Main</div>
 		<div class="leftbaropt">
 			<div class="leftbarsymb"></div>
-			<div class="leftbarchoice"></div>
+			<div class="leftbarchoice"> Playing</div>
 		</div>
 		<div class="leftbaropt">
 			<div class="leftbarsymb"></div>
@@ -68,6 +68,20 @@
 
 	<div class="rightcontain">
 		<div class="righttopbar">forthetoprightcontents</div>
+
+		<div class="rightopts">
+			<div class="opttitle">Main</div>
+			<div class="rightbaropt">
+				<div class="rightbarsymb"></div>
+				<div class="rightbarchoice"> Playing</div>
+		</div>
+
+
+		</div>
+
+
+
+
 
 		<div class="rightbotbar">forthdid it change text</div>
 
