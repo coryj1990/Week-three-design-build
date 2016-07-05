@@ -1,22 +1,117 @@
 .bigcontain {
 	display: flex;
-	background-color: pink;
-	height: 100%;
+	height: auto;
 	width: 100%;
-	justify-content: space-around;
+
 }
 
 .leftcontain{
-	background-color: orange;
-	flex-grow: 1;
+	background-color: #1f1f14;
+	flex: 1;
+	display: flex;
+	flex-direction: column;
+	min-width: 200px;
+	color: white;
+	text-align: center;
+	align-items: center;
 }
 
 .midcontain {
-	background-color: green;
-	flex-grow:4;
+	flex:4;
 }
 
 .rightcontain{
-	background-color:blue;
-	flex-grow: 1;
+	background-color: #e6fffa;
+	flex: 1;
+	min-width: 200px;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
 }
+
+
+.leftnavbar{
+	background-color: #ff4d4d;
+	height: 80px;
+	text-align: center;
+	display: flex;
+	align-items: center;
+	justify-content: row;
+
+}
+
+
+.topmidbar{
+	height: 80px;
+	background-color:#ffffe6;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.midelements{
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.theactualmidelements {
+	height: 200px;
+	width: 130px;
+	background-color: #4d4d00;
+	margin: 20px;
+}
+
+.righttopbar{
+	background-color: #66c2ff;
+	height: 80px;
+	text-align: center;
+
+}
+
+.rightbotbar{
+	background-color: #5c8a8a;
+	height: 40px;
+	margin-top: auto;
+}
+
+.leftbaropt {
+	height: 25px;
+	width: 150px;
+	background-color: purple;
+	margin: 7px;
+	padding: 7px;
+	display: flex;
+	justify-content: row;
+	justify-content: space-around;
+}
+
+.leftbarsymb {
+	height: 25px;
+	width: 25px;
+	background-color: #007acc;
+}
+
+.leftbarchoice {
+	height: 25px;
+	width: 100px;
+	background-color: #d24dff;
+}
+
+.opttitle{
+	height: 30px;
+	color:white;
+	font-size: 20px;
+	padding: 4px;
+	display:flex;
+}
+
+
+
+
+
+
+
+
+
+
+
