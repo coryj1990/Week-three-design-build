@@ -1,0 +1,22 @@
+.bigcontain {
+	display: flex;
+	background-color: pink;
+	height: 100%;
+	width: 100%;
+	justify-content: space-around;
+}
+
+.leftcontain{
+	background-color: orange;
+	flex-grow: 1;
+}
+
+.midcontain {
+	background-color: green;
+	flex-grow:4;
+}
+
+.rightcontain{
+	background-color:blue;
+	flex-grow: 1;
+}
