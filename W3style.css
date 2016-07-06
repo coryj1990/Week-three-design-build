@@ -116,6 +116,41 @@
 	background-color: #4d4d00;
 	margin: 20px;
 	border-radius: 6px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+	padding: 10px;
+}
+
+.postermidbox{
+	display: flex;
+	align-self:center;
+	justify-content:center;
+	width:100%;
+}
+
+.postertopbox{
+	width:100%;
+}
+
+.posterbotbox{ 
+	display: flex;
+	flex-direction: row;
+}
+
+.posterbutton {
+	height: 20px;
+	width: 20px;
+	background-color: #ffc2b3;
+}
+
+.posterbuttonrel {
+	height: 20px;
+	width: 20px;
+	background-color: #ffc2b3;
+	position: relative;
+	left: 6%;
+	margin-right: 12px;
 }
 
 .righttopbar{

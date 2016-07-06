@@ -2,7 +2,7 @@
 
 <head>
 <link type="text/css"; rel="stylesheet"; href="W3style.css"/>
-<title> My first website from OCS </title>
+<title> Formatting an example webpage </title>
 </head>
 <body>
 
@@ -74,7 +74,18 @@
 
 		<div class="midelements">
 			<div class="theactualmidelements"></div>
-			<div class="theactualmidelements"></div>
+			<div class="theactualmidelements">
+				<div class="postertopbox">
+					<div class="posterbutton"></div>
+				</div>
+				<div class="postermidbox">
+					<div class="posterbutton"></div>
+				</div>
+					<div class="Posterbotbox">
+						<div class="posterbuttonrel"></div>
+						<div class="posterbuttonrel"></div>
+					</div>
+			</div>
 			<div class="theactualmidelements"></div>
 			<div class="theactualmidelements"></div>
 			<div class="theactualmidelements"></div>
