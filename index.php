@@ -10,48 +10,67 @@
 
 
 	<div class="leftcontain">
-		<div class="leftnavbar"> This is search area</div>
+		<div class="leftnavbar"> 
+			<div class="boxcontents">
+				<div class="boxcontents__text"> The text </div>
+				<div class="boxcontents__symb"></div>
+			</div>
+		</div>
 	<div class="leftopts">
 		<div class="opttitle">Main</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"> Playing</div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 
 		<div class="opttitle">Movie Circles</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
+			<div class="leftbarchoice"></div>
+		</div>
+
+		<div class="opttitle">Movie Circles</div>
+		<div class="leftbaropt">
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
 		<div class="leftbaropt">
-			<div class="leftbarsymb"></div>
+			<div class="symb"></div>
 			<div class="leftbarchoice"></div>
 		</div>
+
 
 	</div>
 	</div>
 	<div class="midcontain">
-		<div class="topmidbar"> This is where top mid bar goes</div> 
+		<div class="topmidbar"> 
+			<div class="topmidleftbar"> Discover!</div>
+			<div class="topmidcenterbar"> Release Date | Popularity</div>
+			<div class="topmidrightbar">
+				<div class="topbarsymb"></div>
+				<div class="topbarsymb"></div>
+			</div>
+		</div> 
 
 		<div class="midelements">
 			<div class="theactualmidelements"></div>
@@ -67,23 +86,109 @@
 </div>
 
 	<div class="rightcontain">
-		<div class="righttopbar">forthetoprightcontents</div>
+		<div class="righttopbar">
+			<div class="symb"></div>
+			<div class="rightbarchoice">
+				<div class="rightbarname">Here I am</div>
+			</div>
+			<div class="symb"></div>
+		</div>
 
 		<div class="rightopts">
-			<div class="opttitle">Main</div>
+			<div class="opttitle">Online</div>
 			<div class="rightbaropt">
-				<div class="rightbarsymb"></div>
-				<div class="rightbarchoice"> Playing</div>
-		</div>
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname">Here I am</div>
+					<div class="rightbarmovie">Over here now</div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+
+			<div class="opttitle">Offline</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
+			<div class="rightbaropt">
+				<div class="symb"></div>
+				<div class="rightbarchoice">
+					<div class="rightbarname"></div>
+					<div class="rightbarmovie"></div>
+				</div>
+				<div class="symb"></div>
+			</div>
 
 
 		</div>
 
 
-
-
-
-		<div class="rightbotbar">forthdid it change text</div>
+		<div class="rightbotbar">
+			<div class="boxcontents">
+				<div class="boxcontents__text"> The text </div>
+				<div class="boxcontents__symb"></div>
+			</div>
+		</div>
 
 	</div>
 
